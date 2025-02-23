@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://co5tj6nx3k6eh"]
+
+[ext_resource type="Script" path="res://menu/menu_button.gd" id="1_ab63q"]
+
+[node name="MenuButton" type="Button"]
+text = "Game 1"
+script = ExtResource("1_ab63q")
